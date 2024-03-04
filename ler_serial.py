@@ -225,7 +225,7 @@ class FileProcessor(threading.Thread):
                     with open(filepath, 'r', encoding='utf-8') as f:
                         lines = f.readlines()
                     lines_file_yesterday = lines
-                    _loggin.log("info",f"Linhas_yesterday: {lines_file_yesterdayne}")
+                    _loggin.log("info",f"Linhas_yesterday: {lines_file_yesterday}")
                     break
                     
             for file in files:
