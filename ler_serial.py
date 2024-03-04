@@ -197,7 +197,7 @@ class FileProcessor(threading.Thread):
 
         # Formatar a data do dia anterior como YYYY-MM-DD
         nome_arquivo_ontem = f"output_{data_ontem.strftime('%Y-%m-%d')}.txt"
-
+        
         return nome_arquivo_ontem
 
     def run(self):
@@ -238,6 +238,7 @@ class FileProcessor(threading.Thread):
             lines_concatenada =  lines_file_yesterday + lines_file_current
             
             cycles_header = header_processor(lines_concatenada) # Ler o cabeçalho do arquivo achando os ciclos
+            _loggin.log("info",f"Ciclos index: {cycles_header}")
             self.add_files_cycle(filepath,cycles_header)
                
             time.sleep(1)
