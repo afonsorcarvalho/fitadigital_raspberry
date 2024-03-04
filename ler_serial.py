@@ -102,7 +102,7 @@ class SerialReader(threading.Thread):
             # Ler dados da porta serial
             try:
                 data = self.serial_port.readline().decode()
-            except Exception as e::
+            except Exception as e:
                 _loggin.log("error",f"Ler linha da serial: {e}")
             #print(data)
 
