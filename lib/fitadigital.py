@@ -210,7 +210,7 @@ class FileProcessor(threading.Thread):
             
             # Verificar se existem arquivos no diretório de entrada
             files = os.listdir(self.input_dir)
-            _loggin.log("debug",f"Arquivos encontrados:{files}")
+            #_loggin.log("debug",f"Arquivos encontrados:{files}")
             
         
             # Processar apenas  
