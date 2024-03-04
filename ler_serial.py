@@ -212,7 +212,7 @@ class FileProcessor(threading.Thread):
             
             # Verificar se existem arquivos no diretório de entrada
             files = os.listdir(self.input_dir)
-            
+            _loggin.log("debug",f"Arquivos encontrados:{files}")
             
         
             # Processar apenas  
@@ -225,6 +225,7 @@ class FileProcessor(threading.Thread):
                     with open(filepath, 'r', encoding='utf-8') as f:
                         lines = f.readlines()
                     lines_file_yesterday = lines
+                    _loggin.log("info",f"Linhas_yesterday: {lines_file_yesterdayne}")
                     break
                     
             for file in files:
@@ -233,10 +234,11 @@ class FileProcessor(threading.Thread):
                     with open(filepath, 'r', encoding='utf-8') as f:
                         lines = f.readlines()
                     lines_file_current = lines
+                    _loggin.log("info",f"Linhas_hoje: {lines_file_current}")
                     break
                     
             lines_concatenada =  lines_file_yesterday + lines_file_current
-            
+            _loggin.log("info",f"concatenhada: {lines_concatenada}")
             cycles_header = header_processor(lines_concatenada) # Ler o cabeçalho do arquivo achando os ciclos
             _loggin.log("info",f"Ciclos index: {cycles_header}")
             self.add_files_cycle(filepath,cycles_header)
