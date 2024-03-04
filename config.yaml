@@ -1,0 +1,9 @@
+current_file_input: output_2024-03-03.txt
+path_log: "logs"
+header_processor: header_baumer_hivac2_v1
+input_dir: input_dir # diretorio com os arquivos para processamento
+processed_dir: ciclos # diretorio com os arquivos processados 
+pointer_file: 0 # ponteiro atual da ultima linha processada
+current_file_processor: output_2024-03-03.txt # arquivo que está sendo processado
+ # arquivo que está sendo processado
+serial_port: /dev/pts/11

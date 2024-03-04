@@ -1,0 +1,51 @@
+2024-03-03 22:35:35,390 - INFO - Esta é uma mensagem teste
+2024-03-03 22:37:44,625 - INFO - Iniciou Leitura da serial
+2024-03-03 22:37:44,626 - INFO - Iniciado leitura na Serial<id=0x7fd44d120be0, open=True>(port='/dev/pts/11', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-03 22:37:44,627 - INFO - Iniciado file processor
+2024-03-03 22:41:26,170 - INFO - Iniciou Leitura da serial
+2024-03-03 22:41:26,171 - INFO - Iniciado leitura na Serial<id=0x7f33370ae520, open=True>(port='/dev/pts/11', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-03 22:41:26,172 - INFO - Iniciado file processor
+2024-03-03 22:41:47,285 - INFO - Criando o diretório 'processed_dir/3918'...
+2024-03-03 22:41:47,285 - INFO - O arquivo 'processed_dir/3918/3918_20231208_091013.txt' não existe. Criando-o
+2024-03-03 22:43:02,689 - INFO - O arquivo 'processed_dir/3918/3918_20231208_091013.txt' já modificado. Atualizando
+2024-03-03 22:43:20,793 - INFO - O arquivo 'processed_dir/3918/3918_20231208_091013.txt' já modificado. Atualizando
+2024-03-03 22:56:25,889 - INFO - O arquivo 'processed_dir/3918/3918_20231208_091013.txt' já modificado. Atualizando
+2024-03-03 22:56:40,373 - INFO - Iniciou Leitura da serial
+2024-03-03 22:56:40,374 - INFO - Iniciado leitura na Serial<id=0x7f519eaab520, open=True>(port='/dev/pts/11', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-03 22:56:40,375 - INFO - Iniciado file processor
+2024-03-03 22:56:40,385 - INFO - Criando o diretório 'ciclos/3905'...
+2024-03-03 22:56:40,386 - INFO - O arquivo 'ciclos/3905/3905_20231201_172713.txt' não existe. Criando-o
+2024-03-03 22:56:40,386 - INFO - Criando o diretório 'ciclos/3906'...
+2024-03-03 22:56:40,387 - INFO - O arquivo 'ciclos/3906/3906_20231202_072710.txt' não existe. Criando-o
+2024-03-03 22:56:40,387 - INFO - Criando o diretório 'ciclos/3909'...
+2024-03-03 22:56:40,388 - INFO - O arquivo 'ciclos/3909/3909_20231203_172713.txt' não existe. Criando-o
+2024-03-03 22:56:40,388 - INFO - O arquivo 'ciclos/3905/3905_20231201_173713.txt' não existe. Criando-o
+2024-03-03 22:56:40,389 - INFO - Criando o diretório 'ciclos/3910'...
+2024-03-03 22:56:40,389 - INFO - O arquivo 'ciclos/3910/3910_20231204_172713.txt' não existe. Criando-o
+2024-03-03 22:56:40,390 - INFO - Criando o diretório 'ciclos/3916'...
+2024-03-03 22:56:40,390 - INFO - O arquivo 'ciclos/3916/3916_20231205_072713.txt' não existe. Criando-o
+2024-03-03 22:56:40,391 - INFO - O arquivo 'ciclos/3916/3916_20231205_073713.txt' não existe. Criando-o
+2024-03-03 22:56:40,391 - INFO - O arquivo 'ciclos/3916/3916_20231205_074713.txt' não existe. Criando-o
+2024-03-03 22:56:40,392 - INFO - Criando o diretório 'ciclos/3917'...
+2024-03-03 22:56:40,392 - INFO - O arquivo 'ciclos/3917/3917_20231206_071013.txt' não existe. Criando-o
+2024-03-03 22:56:40,392 - INFO - Criando o diretório 'ciclos/3918'...
+2024-03-03 22:56:40,393 - INFO - O arquivo 'ciclos/3918/3918_20231208_091013.txt' não existe. Criando-o
+2024-03-03 23:07:24,808 - INFO - O arquivo 'ciclos/3918/3918_20231208_091013.txt' já modificado. Atualizando
+2024-03-03 23:11:29,097 - INFO - Criando o diretório 'ciclos/3905'...
+2024-03-03 23:11:29,098 - INFO - O arquivo 'ciclos/3905/3905_20231201_172713.txt' não existe. Criando-o
+2024-03-03 23:11:29,099 - INFO - Criando o diretório 'ciclos/3906'...
+2024-03-03 23:11:29,099 - INFO - O arquivo 'ciclos/3906/3906_20231202_072710.txt' não existe. Criando-o
+2024-03-03 23:11:29,100 - INFO - Criando o diretório 'ciclos/3909'...
+2024-03-03 23:11:29,100 - INFO - O arquivo 'ciclos/3909/3909_20231203_172713.txt' não existe. Criando-o
+2024-03-03 23:11:29,101 - INFO - O arquivo 'ciclos/3905/3905_20231201_173713.txt' não existe. Criando-o
+2024-03-03 23:11:29,101 - INFO - Criando o diretório 'ciclos/3910'...
+2024-03-03 23:11:29,102 - INFO - O arquivo 'ciclos/3910/3910_20231204_172713.txt' não existe. Criando-o
+2024-03-03 23:11:29,103 - INFO - Criando o diretório 'ciclos/3916'...
+2024-03-03 23:11:29,103 - INFO - O arquivo 'ciclos/3916/3916_20231205_072713.txt' não existe. Criando-o
+2024-03-03 23:11:29,104 - INFO - O arquivo 'ciclos/3916/3916_20231205_073713.txt' não existe. Criando-o
+2024-03-03 23:11:29,104 - INFO - O arquivo 'ciclos/3916/3916_20231205_074713.txt' não existe. Criando-o
+2024-03-03 23:11:29,105 - INFO - Criando o diretório 'ciclos/3917'...
+2024-03-03 23:11:29,105 - INFO - O arquivo 'ciclos/3917/3917_20231206_071013.txt' não existe. Criando-o
+2024-03-03 23:11:29,106 - INFO - Criando o diretório 'ciclos/3918'...
+2024-03-03 23:11:29,106 - INFO - O arquivo 'ciclos/3918/3918_20231208_091013.txt' não existe. Criando-o
+2024-03-03 23:12:00,265 - INFO - O arquivo 'ciclos/3918/3918_20231208_091013.txt' já modificado. Atualizando
