@@ -151,12 +151,12 @@ class FileProcessor(threading.Thread):
                 except Exception as e:
                     _loggin.log("error",f"Erro ao ler {CONFIG_FILE_NAME}: {e}")
     
-    def add_files_cycle(self, filepath_in, cycles_print):
+    def add_files_cycle(self, lines, cycles_print):
 
         #lendo file_in
-        with open(filepath_in, "r") as file_in:
-            lines_in = file_in.readlines()
-
+        #with open(filepath_in, "r") as file_in:
+        #    lines_in = file_in.readlines()
+        
         for cycles in cycles_print:
             name_file = f"{cycles[2]}_{cycles[3]}_{cycles[4]}.txt"
 
@@ -170,7 +170,7 @@ class FileProcessor(threading.Thread):
             #print(path_file)
 
             # Criar o arquivo dentro do diretório
-            lines_write = lines_in[cycles[0]: cycles[1]]
+            lines_write = lines[cycles[0]: cycles[1]]
             if os.path.exists(path_file):
                 
                 with open(path_file, "r") as file_out:
@@ -238,8 +238,8 @@ class FileProcessor(threading.Thread):
             lines_concatenada =  lines_file_yesterday + lines_file_current
             #_loggin.log("info",f"concatenhada: {lines_concatenada}")
             cycles_header = header_processor(lines_concatenada) # Ler o cabeçalho do arquivo achando os ciclos
-            _loggin.log("info",f"Ciclos index: {cycles_header}")
-            self.add_files_cycle(filepath,cycles_header)
+            #_loggin.log("info",f"Ciclos index: {cycles_header}")
+            self.add_files_cycle(lines_concatenada,cycles_header)
                
             time.sleep(1)
 
