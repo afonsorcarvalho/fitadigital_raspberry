@@ -172,7 +172,7 @@ class FileProcessor(threading.Thread):
             # Criar o arquivo dentro do diretório
             lines_write = lines[cycles[0]: cycles[1]]
             if os.path.exists(path_file):
-                
+                #lendo arquivo que existe e pegano a quantidade de linha
                 with open(path_file, "r") as file_out:
                     file_out_lines = len(file_out.readlines())
                 #print(f'Tamanho arquivo fileout {file_out_lines}, lines in: {len(lines_write)}')
