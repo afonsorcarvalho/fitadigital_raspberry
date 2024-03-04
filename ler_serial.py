@@ -72,14 +72,20 @@ class SerialReader(threading.Thread):
         self.output_dir = output_dir
 
     def update_config(self,filename):
+        update = False
         with threading.Lock():
+            
             # Carregar configurações do arquivo YAML
             with open(CONFIG_FILE_NAME, 'r') as stream:
                 config = yaml.load(stream, Loader=yaml.FullLoader)
 
             if config['current_file_input'] != filename:
-                # Modificar configurações
+                update = True
                 config['current_file_input'] = filename
+            if config['current_file_processor'] != filename:
+                update = True
+                config['current_file_processor'] = filename
+            if update:
                 try:
                     with open(CONFIG_FILE_NAME, 'w') as stream:
                         yaml.dump(config, stream)
@@ -94,7 +100,10 @@ class SerialReader(threading.Thread):
 
         while True:
             # Ler dados da porta serial
-            data = self.serial_port.readline().decode()
+            try:
+                data = self.serial_port.readline().decode()
+            except:
+                _loggin.log("error",f"Ler linha da serial: {e}")
             #print(data)
 
             # Obter a data atual
