@@ -59,7 +59,7 @@ spec.loader.exec_module(module)
 header_processor = getattr(module, 'read_header')
 
 # Configurações
-SERIAL_PORT = config['serial_port']  # Altere para a porta serial que você está usando
+
 INPUT_DIR = config['input_dir'] 
 PROCESSED_DIR = config['processed_dir'] 
 

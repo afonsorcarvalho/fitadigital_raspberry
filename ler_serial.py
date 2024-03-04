@@ -12,7 +12,8 @@ CONFIG_FILE_NAME = "config.yaml"
 # Carregar configurações do arquivo YAML
 with open(CONFIG_FILE_NAME, 'r') as stream:
     config = yaml.load(stream, Loader=yaml.FullLoader)
-
+    
+SERIAL_PORT = config['serial_port']  # Altere para a porta serial que você está usando
 INPUT_DIR = config['input_dir'] 
 PROCESSED_DIR = config['processed_dir'] 
 
