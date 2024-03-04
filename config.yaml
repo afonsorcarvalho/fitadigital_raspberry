@@ -6,4 +6,4 @@ processed_dir: ciclos # diretorio com os arquivos processados
 pointer_file: 0 # ponteiro atual da ultima linha processada
 current_file_processor: output_2024-03-03.txt # arquivo que está sendo processado
  # arquivo que está sendo processado
-serial_port: /dev/pts/11
+serial_port: /dev/ttyS0

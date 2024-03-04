@@ -1,6 +1,6 @@
 import yaml
 import os
-from lib.fitadigital import SerialReader
+from lib.fitadigital import FileProcessor
 from lib.logger import Logger
 from datetime import datetime, timedelta
 import time
@@ -19,10 +19,5 @@ PROCESSED_DIR = config['processed_dir']
 os.makedirs(PROCESSED_DIR, exist_ok=True)
 os.makedirs(INPUT_DIR, exist_ok=True)
 
-# Iniciar threads
-ser = serial.Serial(SERIAL_PORT, baudrate=9600)  # Configurar a porta serial
-serial_thread = SerialReader(ser, INPUT_DIR)
-
-
-serial_thread.start()
-
+file_thread = FileProcessor(INPUT_DIR, PROCESSED_DIR)
+file_thread.start()
