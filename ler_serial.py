@@ -1,3 +1,4 @@
+import serial
 import yaml
 import os
 from lib.fitadigital import SerialReader
