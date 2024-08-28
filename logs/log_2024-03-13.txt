@@ -1,0 +1,32 @@
+2024-03-13 08:41:12,151 - INFO - Iniciou Leitura da serial
+2024-03-13 08:41:12,174 - INFO - Iniciado leitura na Serial<id=0x7f84301240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 08:42:27,480 - INFO - Iniciou Leitura da serial
+2024-03-13 08:42:27,575 - INFO - Iniciado leitura na Serial<id=0x7fabd71240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 08:43:43,261 - INFO - Iniciou Leitura da serial
+2024-03-13 08:43:43,291 - INFO - Iniciado leitura na Serial<id=0x7fbde51240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 08:45:49,721 - INFO - Iniciou Leitura da serial
+2024-03-13 08:45:49,747 - INFO - Iniciado leitura na Serial<id=0x7f9aa91240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 08:47:05,083 - INFO - Iniciou Leitura da serial
+2024-03-13 08:47:05,131 - INFO - Iniciado leitura na Serial<id=0x7fb28d1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 08:48:21,028 - INFO - Iniciou Leitura da serial
+2024-03-13 08:48:21,056 - INFO - Iniciado leitura na Serial<id=0x7fa8e41240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 08:49:37,062 - INFO - Iniciou Leitura da serial
+2024-03-13 08:49:37,085 - INFO - Iniciado leitura na Serial<id=0x7f97dd1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 08:50:53,463 - INFO - Iniciou Leitura da serial
+2024-03-13 08:50:53,486 - INFO - Iniciado leitura na Serial<id=0x7f97b11240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 08:52:09,515 - INFO - Iniciou Leitura da serial
+2024-03-13 08:52:09,541 - INFO - Iniciado leitura na Serial<id=0x7f98bb1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 08:53:25,466 - INFO - Iniciou Leitura da serial
+2024-03-13 08:53:25,486 - INFO - Iniciado leitura na Serial<id=0x7fbc171240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 10:09:32,138 - INFO - Iniciou Leitura da serial
+2024-03-13 10:09:32,171 - INFO - Iniciado leitura na Serial<id=0x7f87381240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 10:10:47,976 - INFO - Iniciou Leitura da serial
+2024-03-13 10:10:47,997 - INFO - Iniciado leitura na Serial<id=0x7fb2bf1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 10:12:04,235 - INFO - Iniciou Leitura da serial
+2024-03-13 10:12:04,250 - INFO - Iniciado leitura na Serial<id=0x7f94f61240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 10:53:12,853 - INFO - Iniciou Leitura da serial
+2024-03-13 10:53:12,874 - INFO - Iniciado leitura na Serial<id=0x7fae471240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 10:54:26,841 - INFO - Iniciou Leitura da serial
+2024-03-13 10:54:26,876 - INFO - Iniciado leitura na Serial<id=0x7f97a91240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-03-13 15:40:20,343 - INFO - Iniciou Leitura da serial
+2024-03-13 15:40:20,383 - INFO - Iniciado leitura na Serial<id=0x7fa3561240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 

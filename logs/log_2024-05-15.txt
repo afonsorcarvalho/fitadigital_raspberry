@@ -1,0 +1,128 @@
+2024-05-15 08:27:51,531 - INFO - Iniciou Leitura da serial
+2024-05-15 08:27:51,555 - INFO - Iniciado leitura na Serial<id=0x7f977d1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 08:29:03,611 - INFO - Iniciou Leitura da serial
+2024-05-15 08:29:03,632 - INFO - Iniciado leitura na Serial<id=0x7fa1521240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 10:11:15,160 - INFO - Iniciou Leitura da serial
+2024-05-15 10:11:15,190 - INFO - Iniciado leitura na Serial<id=0x7facc91240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:22:05,253 - INFO - Iniciou Leitura da serial
+2024-05-15 14:22:05,276 - INFO - Iniciado leitura na Serial<id=0x7f9c041240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:24:06,191 - INFO - Iniciou Leitura da serial
+2024-05-15 14:24:06,213 - INFO - Iniciado leitura na Serial<id=0x7f80401240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:25:19,313 - INFO - Iniciou Leitura da serial
+2024-05-15 14:25:19,346 - INFO - Iniciado leitura na Serial<id=0x7f96971240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:26:31,896 - INFO - Iniciou Leitura da serial
+2024-05-15 14:26:31,924 - INFO - Iniciado leitura na Serial<id=0x7f875b1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:26:34,912 - ERROR - Ler linha da serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-05-15 14:26:35,968 - INFO - Iniciou Leitura da serial
+2024-05-15 14:26:35,985 - INFO - Iniciado leitura na Serial<id=0x7f98371240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:27:45,021 - INFO - Iniciou Leitura da serial
+2024-05-15 14:27:45,043 - INFO - Iniciado leitura na Serial<id=0x7f836d1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:28:58,097 - INFO - Iniciou Leitura da serial
+2024-05-15 14:28:58,122 - INFO - Iniciado leitura na Serial<id=0x7f84701240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:30:11,046 - INFO - Iniciou Leitura da serial
+2024-05-15 14:30:11,068 - INFO - Iniciado leitura na Serial<id=0x7f84221240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:31:24,255 - INFO - Iniciou Leitura da serial
+2024-05-15 14:31:24,277 - INFO - Iniciado leitura na Serial<id=0x7f98ff1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:32:37,119 - INFO - Iniciou Leitura da serial
+2024-05-15 14:32:37,141 - INFO - Iniciado leitura na Serial<id=0x7fb5261240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:33:50,007 - INFO - Iniciou Leitura da serial
+2024-05-15 14:33:50,029 - INFO - Iniciado leitura na Serial<id=0x7f8d261240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:35:01,213 - INFO - Iniciou Leitura da serial
+2024-05-15 14:35:01,234 - INFO - Iniciado leitura na Serial<id=0x7fbe031240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:36:14,207 - INFO - Iniciou Leitura da serial
+2024-05-15 14:36:14,228 - INFO - Iniciado leitura na Serial<id=0x7fa32f1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:37:27,093 - INFO - Iniciou Leitura da serial
+2024-05-15 14:37:27,121 - INFO - Iniciado leitura na Serial<id=0x7fb53e1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:38:40,269 - INFO - Iniciou Leitura da serial
+2024-05-15 14:38:40,303 - INFO - Iniciado leitura na Serial<id=0x7f9f8f1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:39:53,573 - INFO - Iniciou Leitura da serial
+2024-05-15 14:39:53,607 - INFO - Iniciado leitura na Serial<id=0x7fb9641240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:41:06,662 - INFO - Iniciou Leitura da serial
+2024-05-15 14:41:06,691 - INFO - Iniciado leitura na Serial<id=0x7fb5bb1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:42:19,499 - INFO - Iniciou Leitura da serial
+2024-05-15 14:42:19,526 - INFO - Iniciado leitura na Serial<id=0x7f9cbf1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:42:22,499 - ERROR - Ler linha da serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-05-15 14:42:23,546 - INFO - Iniciou Leitura da serial
+2024-05-15 14:42:23,565 - INFO - Iniciado leitura na Serial<id=0x7f81071240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:43:31,083 - INFO - Iniciou Leitura da serial
+2024-05-15 14:43:31,105 - INFO - Iniciado leitura na Serial<id=0x7fb6871240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:44:44,362 - INFO - Iniciou Leitura da serial
+2024-05-15 14:44:44,391 - INFO - Iniciado leitura na Serial<id=0x7f994e1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:45:57,812 - INFO - Iniciou Leitura da serial
+2024-05-15 14:45:57,835 - INFO - Iniciado leitura na Serial<id=0x7f8aa91240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:47:11,254 - INFO - Iniciou Leitura da serial
+2024-05-15 14:47:11,281 - INFO - Iniciado leitura na Serial<id=0x7f83431240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:48:24,869 - INFO - Iniciou Leitura da serial
+2024-05-15 14:48:24,899 - INFO - Iniciado leitura na Serial<id=0x7f84b81240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:49:38,238 - INFO - Iniciou Leitura da serial
+2024-05-15 14:49:38,266 - INFO - Iniciado leitura na Serial<id=0x7f83381240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:50:51,666 - INFO - Iniciou Leitura da serial
+2024-05-15 14:50:51,687 - INFO - Iniciado leitura na Serial<id=0x7f89571240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:52:05,136 - INFO - Iniciou Leitura da serial
+2024-05-15 14:52:05,159 - INFO - Iniciado leitura na Serial<id=0x7f884e1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:53:18,460 - INFO - Iniciou Leitura da serial
+2024-05-15 14:53:18,483 - INFO - Iniciado leitura na Serial<id=0x7f7f1d1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+                                                                                                                                                                                                                                                                                   2024-05-15 14:54:31,464 - INFO - Iniciou Leitura da serial
+2024-05-15 14:54:31,490 - INFO - Iniciado leitura na Serial<id=0x7f80511240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:54:34,393 - ERROR - Ler linha da serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-05-15 14:54:35,452 - INFO - Iniciou Leitura da serial
+2024-05-15 14:54:35,470 - INFO - Iniciado leitura na Serial<id=0x7f93251240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:55:45,161 - INFO - Iniciou Leitura da serial
+2024-05-15 14:55:45,183 - INFO - Iniciado leitura na Serial<id=0x7f93c11240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:56:58,814 - INFO - Iniciou Leitura da serial
+2024-05-15 14:56:58,837 - INFO - Iniciado leitura na Serial<id=0x7f9f971240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:58:12,032 - INFO - Iniciou Leitura da serial
+2024-05-15 14:58:12,059 - INFO - Iniciado leitura na Serial<id=0x7fa8151240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 14:59:25,651 - INFO - Iniciou Leitura da serial
+2024-05-15 14:59:25,675 - INFO - Iniciado leitura na Serial<id=0x7fa4351240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:00:39,091 - INFO - Iniciou Leitura da serial
+2024-05-15 15:00:39,128 - INFO - Iniciado leitura na Serial<id=0x7f84aa1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:01:52,869 - INFO - Iniciou Leitura da serial
+2024-05-15 15:01:52,891 - INFO - Iniciado leitura na Serial<id=0x7fa0551240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:03:06,131 - INFO - Iniciou Leitura da serial
+2024-05-15 15:03:06,152 - INFO - Iniciado leitura na Serial<id=0x7f833a1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:04:19,945 - INFO - Iniciou Leitura da serial
+2024-05-15 15:04:19,967 - INFO - Iniciado leitura na Serial<id=0x7f9dd51240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:05:33,463 - INFO - Iniciou Leitura da serial
+2024-05-15 15:05:33,493 - INFO - Iniciado leitura na Serial<id=0x7f92ae1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:06:44,936 - INFO - Iniciou Leitura da serial
+2024-05-15 15:06:44,959 - INFO - Iniciado leitura na Serial<id=0x7fac4e1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:07:59,053 - INFO - Iniciou Leitura da serial
+2024-05-15 15:07:59,076 - INFO - Iniciado leitura na Serial<id=0x7fa27a1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:09:12,854 - INFO - Iniciou Leitura da serial
+2024-05-15 15:09:12,878 - INFO - Iniciado leitura na Serial<id=0x7f9bdc1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:10:26,626 - INFO - Iniciou Leitura da serial
+2024-05-15 15:10:26,650 - INFO - Iniciado leitura na Serial<id=0x7f94131240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:11:40,135 - INFO - Iniciou Leitura da serial
+2024-05-15 15:11:40,166 - INFO - Iniciado leitura na Serial<id=0x7f7fb11240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:12:54,421 - INFO - Iniciou Leitura da serial
+2024-05-15 15:12:54,442 - INFO - Iniciado leitura na Serial<id=0x7fa31a1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:14:08,165 - INFO - Iniciou Leitura da serial
+2024-05-15 15:14:08,196 - INFO - Iniciado leitura na Serial<id=0x7f89901240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:15:22,030 - INFO - Iniciou Leitura da serial
+2024-05-15 15:15:22,064 - INFO - Iniciado leitura na Serial<id=0x7fb7c81240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:16:35,482 - INFO - Iniciou Leitura da serial
+2024-05-15 15:16:35,504 - INFO - Iniciado leitura na Serial<id=0x7fa18e1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:17:50,152 - INFO - Iniciou Leitura da serial
+2024-05-15 15:17:50,192 - INFO - Iniciado leitura na Serial<id=0x7f8f221240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:19:03,857 - INFO - Iniciou Leitura da serial
+2024-05-15 15:19:03,881 - INFO - Iniciado leitura na Serial<id=0x7f96f81240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:20:18,091 - INFO - Iniciou Leitura da serial
+2024-05-15 15:20:18,112 - INFO - Iniciado leitura na Serial<id=0x7fb4ae1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:21:38,494 - INFO - Iniciou Leitura da serial
+2024-05-15 15:21:38,515 - INFO - Iniciado leitura na Serial<id=0x7f9a1b1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:22:52,110 - INFO - Iniciou Leitura da serial
+2024-05-15 15:22:52,133 - INFO - Iniciado leitura na Serial<id=0x7fa9011240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:24:05,765 - INFO - Iniciou Leitura da serial
+2024-05-15 15:24:05,792 - INFO - Iniciado leitura na Serial<id=0x7f85161240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:25:18,992 - INFO - Iniciou Leitura da serial
+2024-05-15 15:25:19,022 - INFO - Iniciado leitura na Serial<id=0x7f9c091240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:25:21,956 - ERROR - Ler linha da serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-05-15 15:25:23,063 - INFO - Iniciou Leitura da serial
+2024-05-15 15:25:23,080 - INFO - Iniciado leitura na Serial<id=0x7fa8a51240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:26:33,100 - INFO - Iniciou Leitura da serial
+2024-05-15 15:26:33,125 - INFO - Iniciado leitura na Serial<id=0x7f8c401240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 15:27:50,498 - INFO - Iniciou Leitura da serial
+2024-05-15 15:27:50,528 - INFO - Iniciado leitura na Serial<id=0x7fbdb91240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-15 18:07:00,655 - INFO - Iniciou Leitura da serial
+2024-05-15 18:07:00,686 - INFO - Iniciado leitura na Serial<id=0x7fa9551240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 

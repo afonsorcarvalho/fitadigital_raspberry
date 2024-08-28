@@ -1,0 +1,4 @@
+2024-04-17 17:55:01,334 - INFO - Iniciou Leitura da serial
+2024-04-17 17:55:01,357 - INFO - Iniciado leitura na Serial<id=0x7fa9e91240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-04-17 20:52:03,039 - INFO - Iniciou Leitura da serial
+2024-04-17 20:52:03,061 - INFO - Iniciado leitura na Serial<id=0x7f93a51240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 

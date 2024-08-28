@@ -1,0 +1,5 @@
+2024-05-22 22:59:32,524 - INFO - Iniciou Leitura da serial
+2024-05-22 22:59:32,545 - INFO - Iniciado leitura na Serial<id=0x7faa871240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-05-22 22:59:35,481 - ERROR - Ler linha da serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-05-22 22:59:36,492 - INFO - Iniciou Leitura da serial
+2024-05-22 22:59:36,512 - INFO - Iniciado leitura na Serial<id=0x7fbec91240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 

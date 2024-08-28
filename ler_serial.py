@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import time
 import threading
 
-CONFIG_FILE_NAME = "config.yaml"
+CONFIG_FILE_NAME = "./config.yaml"
 
 # Carregar configurações do arquivo YAML
 with open(CONFIG_FILE_NAME, 'r') as stream:

@@ -1,0 +1,11 @@
+2024-06-22 11:55:17,116 - INFO - Iniciou Leitura da serial
+2024-06-22 11:55:17,137 - INFO - Iniciado leitura na Serial<id=0x7f83c21240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-06-22 11:55:20,018 - ERROR - Ler linha da serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-06-22 11:55:20,952 - INFO - Iniciou Leitura da serial
+2024-06-22 11:55:20,969 - INFO - Iniciado leitura na Serial<id=0x7f81371240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-06-22 11:56:32,756 - INFO - Iniciou Leitura da serial
+2024-06-22 11:56:32,777 - INFO - Iniciado leitura na Serial<id=0x7fb61d1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-06-22 11:57:45,811 - INFO - Iniciou Leitura da serial
+2024-06-22 11:57:45,833 - INFO - Iniciado leitura na Serial<id=0x7fafdf1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
+2024-06-22 22:10:08,013 - INFO - Iniciou Leitura da serial
+2024-06-22 22:10:08,045 - INFO - Iniciado leitura na Serial<id=0x7fa9621240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 

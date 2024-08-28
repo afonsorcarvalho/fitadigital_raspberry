@@ -1,0 +1,2 @@
+2024-07-08 12:41:34,586 - INFO - Iniciou Leitura da serial
+2024-07-08 12:41:34,608 - INFO - Iniciado leitura na Serial<id=0x7f91fc1240, open=True>(port='/dev/ttyS0', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=None, xonxoff=False, rtscts=False, dsrdtr=False) 
